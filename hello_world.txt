@@ -1,0 +1,12 @@
+🎯 Congratulations! You found your branch!
+
+Your Challenge 2 password is: GITHUB-FHVV
+
+🔍 You demonstrated excellent OSINT and Git skills by:
+- Following the LinkedIn → GitHub trail
+- Understanding Git branch concepts  
+- Using git checkout to access your personal branch
+
+Use this password to unlock Challenge 3 in Prizeversity!
+
+Keep up the great detective work! 🕵️‍♂️
